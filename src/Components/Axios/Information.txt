@@ -1,0 +1,7 @@
+// It has to create rest api and it has to follow below request objs(get,post,delete,put,fatch)
+// get --> It has to fetch data from database
+// post --> It has to create new obj
+// put --> It has to create new obj otherwise update if the obj is available it has update the same obj
+// delete --> It has to delete the obj
+// fatch --> It has to update the given obj
+// go termal and install npm (npm i axios)
