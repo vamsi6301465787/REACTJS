@@ -15,7 +15,7 @@ export default class Parent extends Component {
 
     handler(childMessage)
     {
-        alert(`Hello ${this.state.message} from ${this.state.childMessage}`)
+        alert(`Hello ${this.state.message} from ${childMessage}`)
     }
     
   render() {
